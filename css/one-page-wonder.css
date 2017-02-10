@@ -111,7 +111,7 @@ body {
       color: #4b5c66;
 }
 #detailed-specs {
-     top: -59px;
+     top: -60px;
      position: relative;
 }
 
@@ -182,6 +182,9 @@ body {
 }
 .detailed-rating div{
     margin-bottom: 40px;
+}
+.videos img, .container-cellphone img{
+    width: 100%;
 }
 footer {
     margin: 50px 0;
