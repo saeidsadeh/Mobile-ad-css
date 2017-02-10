@@ -1,0 +1,189 @@
+
+/*Custom bootstrap*/
+body {
+    margin-top: 50px; 
+    font-family:  'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: #e0e5e9
+}
+.glyphicon-star {
+  color: #6fce3c;
+}
+.empty-star {
+  color: #333;
+}
+/*Custom bootstrap*/
+
+
+.product-features h1{
+    font-size: 90px;
+    font-weight: 900;
+}
+.product-features img{
+    margin-left: 100px;
+}
+.product-features h3 {
+    font-size: 40px;
+}
+.product-features .product-price {
+    font-size: 30px;
+}
+.product-features .quantity-selection{
+    margin-left: 70px;
+    width: 80px;
+    height: 46px;
+}
+.product-features .product-add-to-cart{
+    width: 265px;
+    height: 57px;
+}
+.product-features .price-container{
+    margin-bottom: 25px;
+}
+.product-features .add-to-cart-container{
+    margin-bottom: 60px;
+}
+
+.protection-plan {
+    background: #fff;
+    padding: 15px;
+}
+.protection-plan span {
+    color: #0087f2;
+    margin-left: 15px;
+    font-size: 14px;
+    
+}
+.protection-plan label, .protection-plan p {
+    font-size: 14px;
+}
+.top-features{
+    height: 530px;
+    background-color: #fff;
+    padding: 30px;
+}
+
+
+.title-container {
+    padding: 200px 20px 20px 20px;
+    position: relative;
+    height: 390px;
+    
+}
+.title-container h1 {
+    font-size: 60px;
+    color: #fff;
+}
+
+.title-container.red {
+    background-color: #ea167a;
+}
+.title-container.yellow {
+    background-color: #ffd200;
+}
+.title-container.green {
+    background-color: #6fce3c;
+}
+
+.details-button.yellow {
+    background-color: #ffd200;
+}
+.details-button.green {
+    background-color: #6fce3c;
+}
+.ball-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ball-container.ball-top-margin{
+    margin-top: 150px;
+}
+.ball {
+      background-color: #fff;
+      width: 100px;
+      height: 100px;
+      font-size: 14px;
+      border-radius: 50%;
+      text-align: center;
+      padding-top: 30px;
+      margin-bottom: 90px;
+      color: #4b5c66;
+}
+#detailed-specs {
+     top: -59px;
+     position: relative;
+}
+
+#detailed-specs .phone-center {
+    background-color : #fff;
+    padding: 30px;
+}
+
+#detailed-specs .title-container .cellphone-img {
+       position: absolute;
+       top: -137px;
+       right: -25px;
+}
+.container-general-headers{
+    font-size: 32px;
+    margin-bottom: 30px;
+
+}
+.details-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    width: 206px;
+    height: 60px;
+    position: relative;
+}
+.details-button a{
+    color:#fff;
+}
+#overall-score .scoring {
+    padding: 30px;
+
+}
+#overall-score .scoring p{
+    font-size: 22px;
+
+}
+#overall-score .scoring h1{
+    font-size: 120px;
+    
+}
+#overall-score .customer-review h1{
+    font-size: 30px;
+    
+}
+#overall-score .customer-review{
+    background-color: #fff;
+    padding: 30px;
+    
+}
+.rating-box{
+    height: 5px;
+    width:35px;
+    margin-right: 2px;
+    margin-left:2px;
+    background-color: #6fce3c;
+    float: left;
+}
+.rating-box-empty{
+    height: 5px;
+    width:35px;
+    margin-right: 2px;
+    margin-left:2px;
+    background-color: #e0e5e9;
+    float: left;
+}
+.detailed-rating div{
+    margin-bottom: 40px;
+}
+footer {
+    margin: 50px 0;
+}
+
